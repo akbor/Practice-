@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Hit okay on Excel Popup",
+    "name": "Hit okay on Google SpreadSheet Popup",
     "version": "0.1",
     "content_scripts":[
         {
